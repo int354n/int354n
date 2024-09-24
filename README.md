@@ -7,6 +7,8 @@
 👨‍💻 Currently learning about data analytic
 
 ![Intan's GitHub stats](https://github-readme-stats.vercel.app/api?username=int354n&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int354n&hide_progress=true)
+
 
 
 
